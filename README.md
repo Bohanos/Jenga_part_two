@@ -1,1 +1,3 @@
-# Jenga_part_two
+# .py_two
+
+# Simple python functions and calculator
